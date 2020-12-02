@@ -1,0 +1,14 @@
+{
+  "scripts": {
+  "dev": "nodemon ./src/sorting.js"
+},
+  "name": "code-katas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/itsmeacs01/Code-Katas.git",
+  "author": "itsmeacs01 <itsmeacs01@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
