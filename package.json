@@ -1,8 +1,8 @@
 {
   "displayName": "codeKatas",
   "scripts": {
-  "dev": "nodemon ./src/methods-in-array.js"
-},
+    "dev": "nodemon ./src/test.js"
+  },
   "name": "code-katas",
   "version": "1.0.0",
   "main": "index.js",
