@@ -8,5 +8,6 @@
 <!-- Add Tasks Here -->
 
 - [x] Sorting.
+- [x] Methods in array.
 
 <h5 align="center" > **** To be continue ... **** </h5>
